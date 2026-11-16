@@ -1,2 +1,3 @@
 My first GitHub practice.
 I am learning commit, push, and pull.
+I successfully made my first commit.
